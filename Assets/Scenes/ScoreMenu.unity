@@ -290,8 +290,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1087475862}
-        m_TargetAssemblyTypeName: ScoreDisplay, Assembly-CSharp
+      - m_Target: {fileID: 1087475863}
+        m_TargetAssemblyTypeName: Exit, Assembly-CSharp
         m_MethodName: ReturnToMainMenu
         m_Mode: 1
         m_Arguments:
@@ -364,6 +364,7 @@ GameObject:
   - component: {fileID: 1087475861}
   - component: {fileID: 1087475860}
   - component: {fileID: 1087475862}
+  - component: {fileID: 1087475863}
   m_Layer: 0
   m_Name: ScoreBackground
   m_TagString: Untagged
@@ -459,6 +460,18 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 92703a38c65678445858287b6f22ccbc, type: 3}
   - {fileID: 21300000, guid: b49cc1d3930a1bc44890b89c395f9b2a, type: 3}
   - {fileID: 21300000, guid: 3b743af164b999343beca7bc12098d4b, type: 3}
+--- !u!114 &1087475863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1087475858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6cc04d14e266df4c9dc549826a34466, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1198118472
 GameObject:
   m_ObjectHideFlags: 0

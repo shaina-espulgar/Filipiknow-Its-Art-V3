@@ -173,6 +173,7 @@
     <Compile Include="Assets\AudioManager.cs" />
     <Compile Include="Assets\AudioSetting.cs" />
     <Compile Include="Assets\Exit.cs" />
+    <Compile Include="Assets\Testing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />

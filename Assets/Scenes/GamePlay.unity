@@ -1382,9 +1382,9 @@ MonoBehaviour:
   quizLoader: {fileID: 641330937}
   quizGameInitializer: {fileID: 2138482315}
   player_score: {fileID: 641330938}
-  playerAvatar: {fileID: 0}
-  displayScore: {fileID: 0}
-  playerName: {fileID: 0}
+  playerAvatar: {fileID: 1386154111}
+  displayScore: {fileID: 1764918564}
+  playerName: {fileID: 832818290}
   classicartPanel: {fileID: 274580046}
   quizInitializerPanel: {fileID: 2138482313}
   countDown: {fileID: 2058257171}
@@ -3392,9 +3392,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   quizzesScoreDisplay:
   - {fileID: 1764918564}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 795468025}
+  - {fileID: 1308661786}
+  - {fileID: 900601451}
 --- !u!114 &641330939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3420,14 +3420,14 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 3b743af164b999343beca7bc12098d4b, type: 3}
   selectedAvatar:
   - {fileID: 1386154111}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1059455901}
+  - {fileID: 1403956211}
+  - {fileID: 1394623044}
   avatarName:
   - {fileID: 832818290}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1358549049}
+  - {fileID: 1916499473}
+  - {fileID: 2046541366}
 --- !u!1 &642716962
 GameObject:
   m_ObjectHideFlags: 0
@@ -4102,9 +4102,9 @@ MonoBehaviour:
   quizLoader: {fileID: 641330937}
   quizGameInitializer: {fileID: 2138482315}
   player_score: {fileID: 641330938}
-  playerAvatar: {fileID: 0}
-  displayScore: {fileID: 0}
-  playerName: {fileID: 0}
+  playerAvatar: {fileID: 1403956211}
+  displayScore: {fileID: 1308661786}
+  playerName: {fileID: 1916499473}
   matchartPanel: {fileID: 712224659}
   quizInitializerPanel: {fileID: 2138482313}
   countDown: {fileID: 360039887}
@@ -4128,7 +4128,7 @@ MonoBehaviour:
   - {fileID: 2034582238}
   - {fileID: 1616836501}
   - {fileID: 1948887149}
-  roundCounter: {fileID: 0}
+  roundCounter: {fileID: 37028352}
 --- !u!1 &720719786
 GameObject:
   m_ObjectHideFlags: 0
@@ -13069,7 +13069,7 @@ MonoBehaviour:
   - {fileID: 1661027242}
   - {fileID: 1070494079}
   - {fileID: 653086037}
-  roundCounter: {fileID: 0}
+  roundCounter: {fileID: 1025880454}
 --- !u!1 &1961784176
 GameObject:
   m_ObjectHideFlags: 0
@@ -14531,9 +14531,9 @@ MonoBehaviour:
   quizLoader: {fileID: 641330937}
   quizGameInitializer: {fileID: 2138482315}
   player_score: {fileID: 641330938}
-  playerAvatar: {fileID: 0}
-  displayScore: {fileID: 0}
-  playerName: {fileID: 0}
+  playerAvatar: {fileID: 1394623044}
+  displayScore: {fileID: 900601451}
+  playerName: {fileID: 2046541366}
   classifyartPanel: {fileID: 2091131671}
   quizInitializerPanel: {fileID: 2138482313}
   countDown: {fileID: 910125760}
@@ -14553,7 +14553,7 @@ MonoBehaviour:
   answersText:
   - {fileID: 1124827609}
   - {fileID: 1080052619}
-  roundCounter: {fileID: 0}
+  roundCounter: {fileID: 1429697400}
 --- !u!1 &2129069810
 GameObject:
   m_ObjectHideFlags: 0
