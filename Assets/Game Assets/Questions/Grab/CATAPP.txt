@@ -1,0 +1,50 @@
+1. These are the Local Materials used for 2d media
+	V Paper
+	V Canvas
+	V Wood
+	V Chaarcoal	
+	V Pigments
+	x Plastic
+	x Chemical PVA
+	x Metal
+	x Leaf
+	x Stone
+2. These are the Local Materials used for wooden 3d media
+	V Molave
+	V Acacia
+	V Ipil
+	V Kamagong
+	v Palmwood
+	x Banana
+	x Banaba
+	x Sampaguita
+	x Narra
+	x Brickwood
+3.  These are the Local Materials used for 3d media
+	V Wood
+	v Stone
+	V Metal
+	V Clay
+	V Sand
+	X PVA
+	X Leaf
+	X Polymer
+	X Wire
+	X Paper
+4. These are the shells that is used contemporary art
+	V Capiz
+	V Puka
+	V Paua
+	V Blacklip
+	V Sigay
+	x White lip
+	X Mother pearl
+	x Tahong
+	x khaherino
+	x Urchin Kabibe
+5 theese are the traditional techniques, and practice for contempo art
+	V Contemporary Painting
+	V Contemporary Sculpture
+	V Style of Emotion
+	V Style of Fantasy
+	

@@ -1,0 +1,3144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-25T17:03:00.493+08:00
+  initializedAtString: 2021-07-25T17:02:58.680+08:00
+  entries:
+  - path: .vs\FilipiKnow-Its-Art\v15\.suo
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\.vs\FilipiKnow-Its-Art\v15\.suo
+    projectPath: .vs\FilipiKnow-Its-Art\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\.vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\.vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\.vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\FilipiKnow-Its-Art\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Game Functions\PLAY\PlayGame.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Game Functions\PLAY\PlayGame.cs
+    projectPath: Assets\Game Functions\PLAY\PlayGame.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\PlayFabEditorExtensions\Editor\Resources\PlayFabEditorPrefsSO.asset
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\PlayFabEditorExtensions\Editor\Resources\PlayFabEditorPrefsSO.asset
+    projectPath: Assets\PlayFabEditorExtensions\Editor\Resources\PlayFabEditorPrefsSO.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\AdminUtilities.unity
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\Scenes\AdminUtilities.unity
+    projectPath: Assets\Scenes\AdminUtilities.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\UniScripts\DownloadQuizDatabase.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\DownloadQuizDatabase.cs
+    projectPath: Assets\UniScripts\DownloadQuizDatabase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\DownloadQuizDatabase.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\DownloadQuizDatabase.cs.meta
+    projectPath: Assets\UniScripts\DownloadQuizDatabase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\QuizList.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\QuizList.cs
+    projectPath: Assets\UniScripts\QuizList.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\QuizList.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\QuizList.cs.meta
+    projectPath: Assets\UniScripts\QuizList.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\QuizName.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\QuizName.cs
+    projectPath: Assets\UniScripts\QuizName.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\QuizName.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\QuizName.cs.meta
+    projectPath: Assets\UniScripts\QuizName.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\UploadQuizDatabase.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\UploadQuizDatabase.cs
+    projectPath: Assets\UniScripts\UploadQuizDatabase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UniScripts\UploadQuizDatabase.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UniScripts\UploadQuizDatabase.cs.meta
+    projectPath: Assets\UniScripts\UploadQuizDatabase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive.meta
+    projectPath: Assets\UnityGoogleDrive.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor.meta
+    projectPath: Assets\UnityGoogleDrive\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\Dependencies.xml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\Dependencies.xml
+    projectPath: Assets\UnityGoogleDrive\Editor\Dependencies.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\Dependencies.xml.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\Dependencies.xml.meta
+    projectPath: Assets\UnityGoogleDrive\Editor\Dependencies.xml.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef
+    projectPath: Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef.meta
+    projectPath: Assets\UnityGoogleDrive\Editor\Elringus.UnityGoogleDrive.Editor.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs
+    projectPath: Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Editor\GoogleDriveSettingsEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\LICENSE.md
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\LICENSE.md
+    projectPath: Assets\UnityGoogleDrive\LICENSE.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\LICENSE.md.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\LICENSE.md.meta
+    projectPath: Assets\UnityGoogleDrive\LICENSE.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\package.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\package.json
+    projectPath: Assets\UnityGoogleDrive\package.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\package.json.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\package.json.meta
+    projectPath: Assets\UnityGoogleDrive\package.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Plugins.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Plugins.meta
+    projectPath: Assets\UnityGoogleDrive\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar
+    projectPath: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar.meta
+    projectPath: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveandroid.aar.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm
+    projectPath: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm.meta
+    projectPath: Assets\UnityGoogleDrive\Plugins\com.elringus.unitygoogledriveios.mm.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Resources.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Resources.meta
+    projectPath: Assets\UnityGoogleDrive\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset
+    projectPath: Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset.meta
+    projectPath: Assets\UnityGoogleDrive\Resources\GoogleDriveSettings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\About.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\About.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\About.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\About.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\About.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\About.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\AudioFile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Change.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\ChangeList.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Channel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\File.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\File.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\File.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\File.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\File.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\File.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\FileList.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\GeneratedIds.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\Permission.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\ResourceData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\StartPageToken.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDrive.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TeamDriveList.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\TextureFile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\User.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\User.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\User.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\Data\User.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\Data\User.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\Data\User.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveAbout.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveChanges.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveFiles.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\API\GoogleDriveTeamDrives.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AccessTokenRefresher.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AndroidAccessTokenProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AuthCodeExchanger.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\AuthController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\GenericClientCredentials.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IAccessTokenProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IClientCredentials.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\IOSAccessTokenProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\LoopbackAccessTokenProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\RedirectAccessTokenProvider.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Authorization\UriSchemeClientCredentials.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef
+    projectPath: Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Elringus.UnityGoogleDrive.Runtime.asmdef.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequest.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveRequestYieldInstruction.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveResponseError.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveResumableUploadRequest.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\GoogleDriveUploadRequest.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\AsyncExtensions.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\CryptoUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\Helpers.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs.meta
+    projectPath: Assets\UnityGoogleDrive\Runtime\Utilities\JsonUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty.meta
+    projectPath: Assets\UnityGoogleDrive\ThirdParty.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite.meta
+    projectPath: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt
+    projectPath: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt.meta
+    projectPath: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\LICENSE.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll
+    projectPath: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll.meta
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll.meta
+    projectPath: Assets\UnityGoogleDrive\ThirdParty\JsonNet-Lite\UnityGoogleDrive.Newtonsoft.Json.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Elringus.UnityGoogleDrive.Editor.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Elringus.UnityGoogleDrive.Editor.csproj
+    projectPath: Elringus.UnityGoogleDrive.Editor.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Elringus.UnityGoogleDrive.Runtime.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Elringus.UnityGoogleDrive.Runtime.csproj
+    projectPath: Elringus.UnityGoogleDrive.Runtime.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FilipiKnow-Its-Art.sln
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\FilipiKnow-Its-Art.sln
+    projectPath: FilipiKnow-Its-Art.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: kcp2k.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\kcp2k.csproj
+    projectPath: kcp2k.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\0096af31cfbfcb09e9b4ffa8d3648044
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\00\0096af31cfbfcb09e9b4ffa8d3648044
+    projectPath: Library\Artifacts\00\0096af31cfbfcb09e9b4ffa8d3648044
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\02\02979d27ec3643eb89693dffd5aa8c3a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\02\02979d27ec3643eb89693dffd5aa8c3a
+    projectPath: Library\Artifacts\02\02979d27ec3643eb89693dffd5aa8c3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\03\0391279ca3f0c1ed1746a8e1fa4a3942
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\03\0391279ca3f0c1ed1746a8e1fa4a3942
+    projectPath: Library\Artifacts\03\0391279ca3f0c1ed1746a8e1fa4a3942
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\03\03acc0ea71d30a95f66bb2450d3e83c4
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\03\03acc0ea71d30a95f66bb2450d3e83c4
+    projectPath: Library\Artifacts\03\03acc0ea71d30a95f66bb2450d3e83c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\07\0756d72c0cd41cc3ceb12065f30da69d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\07\0756d72c0cd41cc3ceb12065f30da69d
+    projectPath: Library\Artifacts\07\0756d72c0cd41cc3ceb12065f30da69d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\0855913982a4bd368bd1cfe084588565
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\08\0855913982a4bd368bd1cfe084588565
+    projectPath: Library\Artifacts\08\0855913982a4bd368bd1cfe084588565
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0a\0abb1ef777941dcf5530cb7283e3245b
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\0a\0abb1ef777941dcf5530cb7283e3245b
+    projectPath: Library\Artifacts\0a\0abb1ef777941dcf5530cb7283e3245b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0d\0df401f3e74ef8dd2ce9cfcdf60ee1d2
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\0d\0df401f3e74ef8dd2ce9cfcdf60ee1d2
+    projectPath: Library\Artifacts\0d\0df401f3e74ef8dd2ce9cfcdf60ee1d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1b\1be0b340801534b46f243a6248dc01fb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\1b\1be0b340801534b46f243a6248dc01fb
+    projectPath: Library\Artifacts\1b\1be0b340801534b46f243a6248dc01fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1e18e302be43861e581907a952f6effe
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\1e\1e18e302be43861e581907a952f6effe
+    projectPath: Library\Artifacts\1e\1e18e302be43861e581907a952f6effe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    projectPath: Library\Artifacts\21\2178a8a0fa8308fcfa83c6c3cf779a0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\22\222eadc972d153ce2c516d5d12c7b5e9
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\22\222eadc972d153ce2c516d5d12c7b5e9
+    projectPath: Library\Artifacts\22\222eadc972d153ce2c516d5d12c7b5e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\2238ccb5b105ef8a8d59774c1a5a4de8
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\22\2238ccb5b105ef8a8d59774c1a5a4de8
+    projectPath: Library\Artifacts\22\2238ccb5b105ef8a8d59774c1a5a4de8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\23e774a3197943743a36f17d3cc96974
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\23\23e774a3197943743a36f17d3cc96974
+    projectPath: Library\Artifacts\23\23e774a3197943743a36f17d3cc96974
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\23\23fbfc0c1c8f58a8453829bd1ee6f8ba
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\23\23fbfc0c1c8f58a8453829bd1ee6f8ba
+    projectPath: Library\Artifacts\23\23fbfc0c1c8f58a8453829bd1ee6f8ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\2456fbc94972d282f016897446b976db
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\24\2456fbc94972d282f016897446b976db
+    projectPath: Library\Artifacts\24\2456fbc94972d282f016897446b976db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\27\2723f0d291f95338efdfe12c52ea3bd8
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\27\2723f0d291f95338efdfe12c52ea3bd8
+    projectPath: Library\Artifacts\27\2723f0d291f95338efdfe12c52ea3bd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2a\2a3fa2851d90cb1763a5c28847f41862
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\2a\2a3fa2851d90cb1763a5c28847f41862
+    projectPath: Library\Artifacts\2a\2a3fa2851d90cb1763a5c28847f41862
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2a963f413fe6b082a4db58e958dbe30d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\2a\2a963f413fe6b082a4db58e958dbe30d
+    projectPath: Library\Artifacts\2a\2a963f413fe6b082a4db58e958dbe30d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\2b\2b88ac22f0e913962763371fc3339a2c
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\2b\2b88ac22f0e913962763371fc3339a2c
+    projectPath: Library\Artifacts\2b\2b88ac22f0e913962763371fc3339a2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2ddb7f7987f49ac098fa76581d22f46b
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\2d\2ddb7f7987f49ac098fa76581d22f46b
+    projectPath: Library\Artifacts\2d\2ddb7f7987f49ac098fa76581d22f46b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\37\37683a46205b0cdad431ba7c92eac6b0
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\37\37683a46205b0cdad431ba7c92eac6b0
+    projectPath: Library\Artifacts\37\37683a46205b0cdad431ba7c92eac6b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3b0ada7ded63d7c337600c5a70ec9d55
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\3b\3b0ada7ded63d7c337600c5a70ec9d55
+    projectPath: Library\Artifacts\3b\3b0ada7ded63d7c337600c5a70ec9d55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3dd61a24923b3df9ad41e8fb5fa86f0f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\3d\3dd61a24923b3df9ad41e8fb5fa86f0f
+    projectPath: Library\Artifacts\3d\3dd61a24923b3df9ad41e8fb5fa86f0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\40\40c32e3ec328dd37a820b7df4fd7f1b9
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\40\40c32e3ec328dd37a820b7df4fd7f1b9
+    projectPath: Library\Artifacts\40\40c32e3ec328dd37a820b7df4fd7f1b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\44d03b974d97576c8462ad812e484a92
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\44\44d03b974d97576c8462ad812e484a92
+    projectPath: Library\Artifacts\44\44d03b974d97576c8462ad812e484a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\45\45eb6171cb59e0c6c8942b86f4af73ee
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\45\45eb6171cb59e0c6c8942b86f4af73ee
+    projectPath: Library\Artifacts\45\45eb6171cb59e0c6c8942b86f4af73ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\46\4641f24e19543963d568d9c9f0849000
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\46\4641f24e19543963d568d9c9f0849000
+    projectPath: Library\Artifacts\46\4641f24e19543963d568d9c9f0849000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\49\49c40a0ed04ee19d0a98973201ecee7e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\49\49c40a0ed04ee19d0a98973201ecee7e
+    projectPath: Library\Artifacts\49\49c40a0ed04ee19d0a98973201ecee7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\49\49ccf109fb66521110e75465308f3613
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\49\49ccf109fb66521110e75465308f3613
+    projectPath: Library\Artifacts\49\49ccf109fb66521110e75465308f3613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c58dfd8722ae5501ff2617fa44528e8
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\4c\4c58dfd8722ae5501ff2617fa44528e8
+    projectPath: Library\Artifacts\4c\4c58dfd8722ae5501ff2617fa44528e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\50\507b921cd2eadeeaa98cd81aff87259c
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\50\507b921cd2eadeeaa98cd81aff87259c
+    projectPath: Library\Artifacts\50\507b921cd2eadeeaa98cd81aff87259c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\52\52999f4c64892e6956b7c8f6504d55ea
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\52\52999f4c64892e6956b7c8f6504d55ea
+    projectPath: Library\Artifacts\52\52999f4c64892e6956b7c8f6504d55ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56d478062205d21715eb8876a50cbc0d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\56\56d478062205d21715eb8876a50cbc0d
+    projectPath: Library\Artifacts\56\56d478062205d21715eb8876a50cbc0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\58\58404da15a03e06b0a682bae5dcce146
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\58\58404da15a03e06b0a682bae5dcce146
+    projectPath: Library\Artifacts\58\58404da15a03e06b0a682bae5dcce146
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5cdd7ed95bcf4119f231ad890da2683e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\5c\5cdd7ed95bcf4119f231ad890da2683e
+    projectPath: Library\Artifacts\5c\5cdd7ed95bcf4119f231ad890da2683e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5d5e66ed8bb650442bef105b540301de
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\5d\5d5e66ed8bb650442bef105b540301de
+    projectPath: Library\Artifacts\5d\5d5e66ed8bb650442bef105b540301de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\5e\5ee4037f3bebae129ee1c5c5e6fb5cf5
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\5e\5ee4037f3bebae129ee1c5c5e6fb5cf5
+    projectPath: Library\Artifacts\5e\5ee4037f3bebae129ee1c5c5e6fb5cf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\60dc629ffe81985ed7dc19a1d1f516ce
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\60\60dc629ffe81985ed7dc19a1d1f516ce
+    projectPath: Library\Artifacts\60\60dc629ffe81985ed7dc19a1d1f516ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\644c7c5d9cf56b1858a0ef0cdcf1479e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\64\644c7c5d9cf56b1858a0ef0cdcf1479e
+    projectPath: Library\Artifacts\64\644c7c5d9cf56b1858a0ef0cdcf1479e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\65\65a7c58929fb6b3946aa3d59cc42cb2e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\65\65a7c58929fb6b3946aa3d59cc42cb2e
+    projectPath: Library\Artifacts\65\65a7c58929fb6b3946aa3d59cc42cb2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\66548e5430be2c1afdac6f2212bc510d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\66\66548e5430be2c1afdac6f2212bc510d
+    projectPath: Library\Artifacts\66\66548e5430be2c1afdac6f2212bc510d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\669945a5d2b95967f1e07aaccc71f004
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\66\669945a5d2b95967f1e07aaccc71f004
+    projectPath: Library\Artifacts\66\669945a5d2b95967f1e07aaccc71f004
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\67d8fddd898dbfba38faf905e854c91d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\67\67d8fddd898dbfba38faf905e854c91d
+    projectPath: Library\Artifacts\67\67d8fddd898dbfba38faf905e854c91d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\67f5c91d89921e89c73da202803ff059
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\67\67f5c91d89921e89c73da202803ff059
+    projectPath: Library\Artifacts\67\67f5c91d89921e89c73da202803ff059
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\68\6853bafae211a0d8d0cde97be67befca
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\68\6853bafae211a0d8d0cde97be67befca
+    projectPath: Library\Artifacts\68\6853bafae211a0d8d0cde97be67befca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\6b\6bfcc4605260dcc2467691b7a61569de
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\6b\6bfcc4605260dcc2467691b7a61569de
+    projectPath: Library\Artifacts\6b\6bfcc4605260dcc2467691b7a61569de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6d79aa3b07654057d6ea75c9e71c06d2
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\6d\6d79aa3b07654057d6ea75c9e71c06d2
+    projectPath: Library\Artifacts\6d\6d79aa3b07654057d6ea75c9e71c06d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\719b828ec42dde2dc50c648459e506a4
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\71\719b828ec42dde2dc50c648459e506a4
+    projectPath: Library\Artifacts\71\719b828ec42dde2dc50c648459e506a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\76\764650523f839f864f00d92a771be3d1
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\76\764650523f839f864f00d92a771be3d1
+    projectPath: Library\Artifacts\76\764650523f839f864f00d92a771be3d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\7667795411aa248aebb0964789fcde18
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\76\7667795411aa248aebb0964789fcde18
+    projectPath: Library\Artifacts\76\7667795411aa248aebb0964789fcde18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b36c3e7df00564c86e8ef0091676aca
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\7b\7b36c3e7df00564c86e8ef0091676aca
+    projectPath: Library\Artifacts\7b\7b36c3e7df00564c86e8ef0091676aca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b454940d5f001809c61f0af300c026b
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\7b\7b454940d5f001809c61f0af300c026b
+    projectPath: Library\Artifacts\7b\7b454940d5f001809c61f0af300c026b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7b\7b49817008328a1c44343f4c0a185350
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\7b\7b49817008328a1c44343f4c0a185350
+    projectPath: Library\Artifacts\7b\7b49817008328a1c44343f4c0a185350
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7c\7cc31cbdee7f3f4ef07bc2b474247a77
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\7c\7cc31cbdee7f3f4ef07bc2b474247a77
+    projectPath: Library\Artifacts\7c\7cc31cbdee7f3f4ef07bc2b474247a77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7d\7d25a2a12992558614ac5a4f58b66502
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\7d\7d25a2a12992558614ac5a4f58b66502
+    projectPath: Library\Artifacts\7d\7d25a2a12992558614ac5a4f58b66502
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\819768e1505a1762de4984b28c337548
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\81\819768e1505a1762de4984b28c337548
+    projectPath: Library\Artifacts\81\819768e1505a1762de4984b28c337548
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\8465b7aaee613ea4a7e955633913f19c
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\84\8465b7aaee613ea4a7e955633913f19c
+    projectPath: Library\Artifacts\84\8465b7aaee613ea4a7e955633913f19c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\88\88a09a49436ce27283e42b5c687ad7b6
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\88\88a09a49436ce27283e42b5c687ad7b6
+    projectPath: Library\Artifacts\88\88a09a49436ce27283e42b5c687ad7b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\895ed8080b01be8727184de936b4fb9f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\89\895ed8080b01be8727184de936b4fb9f
+    projectPath: Library\Artifacts\89\895ed8080b01be8727184de936b4fb9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e6485781e00e44bc273a84950f59b01
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\8e\8e6485781e00e44bc273a84950f59b01
+    projectPath: Library\Artifacts\8e\8e6485781e00e44bc273a84950f59b01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8e\8ee539dfeece220b2ac9aecb18a75ab6
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\8e\8ee539dfeece220b2ac9aecb18a75ab6
+    projectPath: Library\Artifacts\8e\8ee539dfeece220b2ac9aecb18a75ab6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8f\8f2bceee9e238060d610846dc69de6e5
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\8f\8f2bceee9e238060d610846dc69de6e5
+    projectPath: Library\Artifacts\8f\8f2bceee9e238060d610846dc69de6e5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8f\8febb60997b87b6c5d4fe6f34cc5799c
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\8f\8febb60997b87b6c5d4fe6f34cc5799c
+    projectPath: Library\Artifacts\8f\8febb60997b87b6c5d4fe6f34cc5799c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90d672f35be66462b19135a362b5c5ab
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\90\90d672f35be66462b19135a362b5c5ab
+    projectPath: Library\Artifacts\90\90d672f35be66462b19135a362b5c5ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\94\9483708186cf02e28b202eb35c3dd84a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\94\9483708186cf02e28b202eb35c3dd84a
+    projectPath: Library\Artifacts\94\9483708186cf02e28b202eb35c3dd84a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\962f5d2bdf8e967a19f9a72b439cad29
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\96\962f5d2bdf8e967a19f9a72b439cad29
+    projectPath: Library\Artifacts\96\962f5d2bdf8e967a19f9a72b439cad29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\988cc791fa189f4197547a32e24716c2
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\98\988cc791fa189f4197547a32e24716c2
+    projectPath: Library\Artifacts\98\988cc791fa189f4197547a32e24716c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9a\9a545fc3912bdfa6945787718a417d9f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\9a\9a545fc3912bdfa6945787718a417d9f
+    projectPath: Library\Artifacts\9a\9a545fc3912bdfa6945787718a417d9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ac243e77d7cd553642b9a7477090e66
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\9a\9ac243e77d7cd553642b9a7477090e66
+    projectPath: Library\Artifacts\9a\9ac243e77d7cd553642b9a7477090e66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c917856bdf0a11b6254f694574d3e58
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\9c\9c917856bdf0a11b6254f694574d3e58
+    projectPath: Library\Artifacts\9c\9c917856bdf0a11b6254f694574d3e58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\aa\aa94623199a9045777636bed9d89f21e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\aa\aa94623199a9045777636bed9d89f21e
+    projectPath: Library\Artifacts\aa\aa94623199a9045777636bed9d89f21e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\aa\aaa105a48bfabc8ae911d0a2ac65e554
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\aa\aaa105a48bfabc8ae911d0a2ac65e554
+    projectPath: Library\Artifacts\aa\aaa105a48bfabc8ae911d0a2ac65e554
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ad\ad3762d6f4c022add388c1fa2f7acf35
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\ad\ad3762d6f4c022add388c1fa2f7acf35
+    projectPath: Library\Artifacts\ad\ad3762d6f4c022add388c1fa2f7acf35
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    projectPath: Library\Artifacts\ae\ae78bd29696670c67d72e9a968121e3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\af\aff9fbd7eeba3d54f68b45b2de658da0
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\af\aff9fbd7eeba3d54f68b45b2de658da0
+    projectPath: Library\Artifacts\af\aff9fbd7eeba3d54f68b45b2de658da0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b4\b49cf369dc610e5eb090612b5a7662d2
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\b4\b49cf369dc610e5eb090612b5a7662d2
+    projectPath: Library\Artifacts\b4\b49cf369dc610e5eb090612b5a7662d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b8\b8d7b282ec5fc7deb8d16fd292e17d70
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\b8\b8d7b282ec5fc7deb8d16fd292e17d70
+    projectPath: Library\Artifacts\b8\b8d7b282ec5fc7deb8d16fd292e17d70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ba\ba18d2fdbacc194f5f3e85e004fde043
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\ba\ba18d2fdbacc194f5f3e85e004fde043
+    projectPath: Library\Artifacts\ba\ba18d2fdbacc194f5f3e85e004fde043
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bc2832fc97b5f0ef4019ead478f5a0a0
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\bc\bc2832fc97b5f0ef4019ead478f5a0a0
+    projectPath: Library\Artifacts\bc\bc2832fc97b5f0ef4019ead478f5a0a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\be53ef0f595d398102457c131ffe01fc
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\be\be53ef0f595d398102457c131ffe01fc
+    projectPath: Library\Artifacts\be\be53ef0f595d398102457c131ffe01fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\bede81943f600d6bccf51788e5416204
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\be\bede81943f600d6bccf51788e5416204
+    projectPath: Library\Artifacts\be\bede81943f600d6bccf51788e5416204
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c1\c1a7333401ab6088943f06b5a1363790
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c1\c1a7333401ab6088943f06b5a1363790
+    projectPath: Library\Artifacts\c1\c1a7333401ab6088943f06b5a1363790
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c366e7c30a688e872d48f7fb1d36ec74
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c3\c366e7c30a688e872d48f7fb1d36ec74
+    projectPath: Library\Artifacts\c3\c366e7c30a688e872d48f7fb1d36ec74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c4\c446293d0908ef5fbc19d9fac2e01abf
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c4\c446293d0908ef5fbc19d9fac2e01abf
+    projectPath: Library\Artifacts\c4\c446293d0908ef5fbc19d9fac2e01abf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c510742ed772fa66a66ff0751a1abc80
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c5\c510742ed772fa66a66ff0751a1abc80
+    projectPath: Library\Artifacts\c5\c510742ed772fa66a66ff0751a1abc80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c7\c76e89619f6a7aaf34f7bc170b9574bf
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c7\c76e89619f6a7aaf34f7bc170b9574bf
+    projectPath: Library\Artifacts\c7\c76e89619f6a7aaf34f7bc170b9574bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c976cdfbc0ec17ca1bab02e0e7d5485e
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c9\c976cdfbc0ec17ca1bab02e0e7d5485e
+    projectPath: Library\Artifacts\c9\c976cdfbc0ec17ca1bab02e0e7d5485e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb0395fe69c27784df57d6dd9e1e1b3f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\cb\cb0395fe69c27784df57d6dd9e1e1b3f
+    projectPath: Library\Artifacts\cb\cb0395fe69c27784df57d6dd9e1e1b3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d1d89bb818cd3f51c741be79c43ea99b
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d1\d1d89bb818cd3f51c741be79c43ea99b
+    projectPath: Library\Artifacts\d1\d1d89bb818cd3f51c741be79c43ea99b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d4\d4179fddffb60e56fb32e361455c58fe
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d4\d4179fddffb60e56fb32e361455c58fe
+    projectPath: Library\Artifacts\d4\d4179fddffb60e56fb32e361455c58fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d4\d449789856bbd56d951da8c0e3a93a69
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d4\d449789856bbd56d951da8c0e3a93a69
+    projectPath: Library\Artifacts\d4\d449789856bbd56d951da8c0e3a93a69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d94373f691967ba94e4f2551ed3056a9
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d9\d94373f691967ba94e4f2551ed3056a9
+    projectPath: Library\Artifacts\d9\d94373f691967ba94e4f2551ed3056a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d9ae883fc426a23523bc9a935a037d6f
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d9\d9ae883fc426a23523bc9a935a037d6f
+    projectPath: Library\Artifacts\d9\d9ae883fc426a23523bc9a935a037d6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d9d8a6ff54fb378980666f5fd536ced4
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\d9\d9d8a6ff54fb378980666f5fd536ced4
+    projectPath: Library\Artifacts\d9\d9d8a6ff54fb378980666f5fd536ced4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db1b2af243fd93434eba30f0f458be2a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\db\db1b2af243fd93434eba30f0f458be2a
+    projectPath: Library\Artifacts\db\db1b2af243fd93434eba30f0f458be2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db298ee7b798e046af6fe094e5be4076
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\db\db298ee7b798e046af6fe094e5be4076
+    projectPath: Library\Artifacts\db\db298ee7b798e046af6fe094e5be4076
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\db2cd32a64b5f209ff59fec197cb59b8
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\db\db2cd32a64b5f209ff59fec197cb59b8
+    projectPath: Library\Artifacts\db\db2cd32a64b5f209ff59fec197cb59b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc3b4c50c0e81ca6be2692b22430c103
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\dc\dc3b4c50c0e81ca6be2692b22430c103
+    projectPath: Library\Artifacts\dc\dc3b4c50c0e81ca6be2692b22430c103
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc7e9ee12853440779244d27e83ede04
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\dc\dc7e9ee12853440779244d27e83ede04
+    projectPath: Library\Artifacts\dc\dc7e9ee12853440779244d27e83ede04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e0db275b8464e7d6fb95e97fe1fe2f69
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e0\e0db275b8464e7d6fb95e97fe1fe2f69
+    projectPath: Library\Artifacts\e0\e0db275b8464e7d6fb95e97fe1fe2f69
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e1\e161cd447c6d6899fa6efcb712110106
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e1\e161cd447c6d6899fa6efcb712110106
+    projectPath: Library\Artifacts\e1\e161cd447c6d6899fa6efcb712110106
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e169657a7b270efb34f89b0fb58849f1
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e1\e169657a7b270efb34f89b0fb58849f1
+    projectPath: Library\Artifacts\e1\e169657a7b270efb34f89b0fb58849f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e3\e3e61f4b20c5186efd3c9f3d4eb7f2b3
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e3\e3e61f4b20c5186efd3c9f3d4eb7f2b3
+    projectPath: Library\Artifacts\e3\e3e61f4b20c5186efd3c9f3d4eb7f2b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e7\e754b879644bc7a78c3c333039e7b5ed
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e7\e754b879644bc7a78c3c333039e7b5ed
+    projectPath: Library\Artifacts\e7\e754b879644bc7a78c3c333039e7b5ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e7cd0ba23a65a7b40b91b3e8e0a04281
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e7\e7cd0ba23a65a7b40b91b3e8e0a04281
+    projectPath: Library\Artifacts\e7\e7cd0ba23a65a7b40b91b3e8e0a04281
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e7e4da909d6270c1bc689c1035f5d363
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e7\e7e4da909d6270c1bc689c1035f5d363
+    projectPath: Library\Artifacts\e7\e7e4da909d6270c1bc689c1035f5d363
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8330e07e842f5e8d67bf20e3a1e73ac
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e8\e8330e07e842f5e8d67bf20e3a1e73ac
+    projectPath: Library\Artifacts\e8\e8330e07e842f5e8d67bf20e3a1e73ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef9f6cd44bf77002841647188040e5f0
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\ef\ef9f6cd44bf77002841647188040e5f0
+    projectPath: Library\Artifacts\ef\ef9f6cd44bf77002841647188040e5f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f07cdd640d10e66c0da0bd6aa3f303b7
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\f0\f07cdd640d10e66c0da0bd6aa3f303b7
+    projectPath: Library\Artifacts\f0\f07cdd640d10e66c0da0bd6aa3f303b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2a14e598b69b26f281405279f2fb838
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\f2\f2a14e598b69b26f281405279f2fb838
+    projectPath: Library\Artifacts\f2\f2a14e598b69b26f281405279f2fb838
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f2e58177b3ed252fb24a9820f0b92361
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\f2\f2e58177b3ed252fb24a9820f0b92361
+    projectPath: Library\Artifacts\f2\f2e58177b3ed252fb24a9820f0b92361
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f56e5a7ada55730b5a0159d062dc5e9a
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\f5\f56e5a7ada55730b5a0159d062dc5e9a
+    projectPath: Library\Artifacts\f5\f56e5a7ada55730b5a0159d062dc5e9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb177b2de97c10a8eabddc71b0794ff3
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\fb\fb177b2de97c10a8eabddc71b0794ff3
+    projectPath: Library\Artifacts\fb\fb177b2de97c10a8eabddc71b0794ff3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fc\fc1684cdeb0fd4ffa681b395d9ceb298
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\fc\fc1684cdeb0fd4ffa681b395d9ceb298
+    projectPath: Library\Artifacts\fc\fc1684cdeb0fd4ffa681b395d9ceb298
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\feb99f1e79c8daff4e88c436f87ebedf
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\fe\feb99f1e79c8daff4e88c436f87ebedf
+    projectPath: Library\Artifacts\fe\feb99f1e79c8daff4e88c436f87ebedf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE.dag.outputdata
+    projectPath: Library\Bee\1900b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag_fsmtime
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE.dag_fsmtime
+    projectPath: Library\Bee\1900b0aE.dag_fsmtime
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Analytics.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Analytics.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Analytics.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.movedfrom.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.dll.movedfrom.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.ref.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Editor.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.dll.movedfrom.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.ref.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Elringus.UnityGoogleDrive.Runtime.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\kcp2k.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\kcp2k.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\kcp2k.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.Authenticators.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.Authenticators.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.Authenticators.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.CompilerSymbols.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.CompilerSymbols.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.CompilerSymbols.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.Components.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.Components.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.Components.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.Examples.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.Examples.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.Examples.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Mirror.Weaver.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Mirror.Weaver.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Mirror.Weaver.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\PlayFab.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\PlayFab.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\PlayFab.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\PlayFabEditorExtensions.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\PlayFabEditorExtensions.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\PlayFabEditorExtensions.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\PlayFabSDKEditor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\PlayFabSDKEditor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\PlayFabSDKEditor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Purchasing.Common.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Purchasing.Common.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Purchasing.Common.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\SimpleFileBrowser.Runtime.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\SimpleFileBrowser.Runtime.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\SimpleFileBrowser.Runtime.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\SimpleWebTransport.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\SimpleWebTransport.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\SimpleWebTransport.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Telepathy.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Telepathy.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Telepathy.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Sprite.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.2D.Tilemap.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Analytics.DataPrivacy.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.Analytics.DataPrivacy.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Analytics.DataPrivacy.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.Editor.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Advertisements.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Monetization.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Monetization.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Monetization.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleCore.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleCore.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleCore.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleMacosStub.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleMacosStub.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleMacosStub.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleStub.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleStub.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.AppleStub.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.Codeless.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.Codeless.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.Codeless.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityCore.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityCore.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityCore.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityStub.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityStub.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.SecurityStub.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTCore.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTCore.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTCore.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTStub.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTStub.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.Purchasing.WinRTStub.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.SpatialTracking.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.XR.LegacyInputHelpers.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\movedfrom\UnityGoogleDrive.Newtonsoft.Json.dll_1560845185520083773.movedfrom
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\artifacts\movedfrom\UnityGoogleDrive.Newtonsoft.Json.dll_1560845185520083773.movedfrom
+    projectPath: Library\Bee\artifacts\movedfrom\UnityGoogleDrive.Newtonsoft.Json.dll_1560845185520083773.movedfrom
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\profiler.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\profiler.json
+    projectPath: Library\Bee\profiler.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.digestcache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.log.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.dll
+    projectPath: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.dll
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.pdb
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Elringus.UnityGoogleDrive.Runtime.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Search\transactions.db
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\e4\e4f192a62cc7b74cc9d755b22c73aaeb.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\StateCache\MainStageHierarchy\e4\e4f192a62cc7b74cc9d755b22c73aaeb.json
+    projectPath: Library\StateCache\MainStageHierarchy\e4\e4f192a62cc7b74cc9d755b22c73aaeb.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\f7\f7e5b36e8b366d98bd1d2f076e4f4980.json
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\StateCache\SceneView\f7\f7e5b36e8b366d98bd1d2f076e4f4980.json
+    projectPath: Library\StateCache\SceneView\f7\f7e5b36e8b366d98bd1d2f076e4f4980.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker1.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker10.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker10.log
+    projectPath: Logs\AssetImportWorker10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker10-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker10-prev.log
+    projectPath: Logs\AssetImportWorker10-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker11.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker11.log
+    projectPath: Logs\AssetImportWorker11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker11-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker11-prev.log
+    projectPath: Logs\AssetImportWorker11-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker12.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker12.log
+    projectPath: Logs\AssetImportWorker12.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker12-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker12-prev.log
+    projectPath: Logs\AssetImportWorker12-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker2.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker2.log
+    projectPath: Logs\AssetImportWorker2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker2-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker3.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker3.log
+    projectPath: Logs\AssetImportWorker3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker3-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker3-prev.log
+    projectPath: Logs\AssetImportWorker3-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker4.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker4.log
+    projectPath: Logs\AssetImportWorker4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker4-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker4-prev.log
+    projectPath: Logs\AssetImportWorker4-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker5.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker5.log
+    projectPath: Logs\AssetImportWorker5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker5-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker5-prev.log
+    projectPath: Logs\AssetImportWorker5-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker6.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker6.log
+    projectPath: Logs\AssetImportWorker6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker6-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker6-prev.log
+    projectPath: Logs\AssetImportWorker6-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker7.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker7.log
+    projectPath: Logs\AssetImportWorker7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker7-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker7-prev.log
+    projectPath: Logs\AssetImportWorker7-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker8.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker8.log
+    projectPath: Logs\AssetImportWorker8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker8-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker8-prev.log
+    projectPath: Logs\AssetImportWorker8-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker9.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker9.log
+    projectPath: Logs\AssetImportWorker9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker9-prev.log
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Logs\AssetImportWorker9-prev.log
+    projectPath: Logs\AssetImportWorker9-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mirror.Authenticators.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.Authenticators.csproj
+    projectPath: Mirror.Authenticators.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.CompilerSymbols.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.CompilerSymbols.csproj
+    projectPath: Mirror.CompilerSymbols.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.Components.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.Components.csproj
+    projectPath: Mirror.Components.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.csproj
+    projectPath: Mirror.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.Editor.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.Editor.csproj
+    projectPath: Mirror.Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.Examples.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.Examples.csproj
+    projectPath: Mirror.Examples.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mirror.Weaver.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Mirror.Weaver.csproj
+    projectPath: Mirror.Weaver.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Elringus.UnityGoogleDrive.Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Elringus.UnityGoogleDrive.Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Elringus.UnityGoogleDrive.Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Elringus.UnityGoogleDrive.Runtime.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Elringus.UnityGoogleDrive.Runtime.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Elringus.UnityGoogleDrive.Runtime.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Elringus.UnityGoogleDrive.Runtime.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Elringus.UnityGoogleDrive.Runtime.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Elringus.UnityGoogleDrive.Runtime.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\kcp2k.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\kcp2k.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\kcp2k.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\kcp2k.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\kcp2k.csprojAssemblyReference.cache
+    projectPath: obj\Debug\kcp2k.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Authenticators.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Authenticators.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.Authenticators.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.CompilerSymbols.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.CompilerSymbols.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.CompilerSymbols.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.CompilerSymbols.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.CompilerSymbols.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Mirror.CompilerSymbols.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Components.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Components.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.Components.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Mirror.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Mirror.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Examples.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Examples.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.Examples.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Mirror.Weaver.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Mirror.Weaver.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Mirror.Weaver.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFab.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\PlayFab.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\PlayFab.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFab.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\PlayFab.csprojAssemblyReference.cache
+    projectPath: obj\Debug\PlayFab.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFabEditorExtensions.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\PlayFabEditorExtensions.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\PlayFabEditorExtensions.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFabSDKEditor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\PlayFabSDKEditor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\PlayFabSDKEditor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\PlayFabSDKEditor.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\PlayFabSDKEditor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\PlayFabSDKEditor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\SimpleFileBrowser.Runtime.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\SimpleFileBrowser.Runtime.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\SimpleFileBrowser.Runtime.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\SimpleWebTransport.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\SimpleWebTransport.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\SimpleWebTransport.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\SimpleWebTransport.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\SimpleWebTransport.csprojAssemblyReference.cache
+    projectPath: obj\Debug\SimpleWebTransport.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Telepathy.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Telepathy.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Telepathy.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Telepathy.csprojAssemblyReference.cache
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\obj\Debug\Telepathy.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Telepathy.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PlayFab.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\PlayFab.csproj
+    projectPath: PlayFab.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PlayFabEditorExtensions.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\PlayFabEditorExtensions.csproj
+    projectPath: PlayFabEditorExtensions.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: PlayFabSDKEditor.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\PlayFabSDKEditor.csproj
+    projectPath: PlayFabSDKEditor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SimpleFileBrowser.Runtime.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\SimpleFileBrowser.Runtime.csproj
+    projectPath: SimpleFileBrowser.Runtime.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: SimpleWebTransport.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\SimpleWebTransport.csproj
+    projectPath: SimpleWebTransport.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Telepathy.csproj
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Telepathy.csproj
+    projectPath: Telepathy.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\mapan\Documents\GitHub\FilipiKnow-Its-Art\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

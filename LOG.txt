@@ -1,0 +1,163 @@
+LOG:
+
+JUNE 21: 
+Implemented player movement (pieces)
+Implemented player path movement for player 1
+Implemented the dice roll mechanic (RANDOMIZATION from 1-6)
+
+June 29:
+Added randomization for default names ()
+Added buttons for avatar scene change
+
+Remove previous  project (unity3d)
+Created a button for solo game
+Added some temoprary sprites for the avatar (still not in the AvatarSceneChange)
+
+June 30:
+[Pandan] 
+UI Progress Update
+Toggle Switch in SettingsMenu Scene
+InputBox added
+
+July 1:
+Main Menu Assets incl. new Scene and Bgvid added
+
+July 2:
+
+[Pandan] 
+Resolutions Scalling Fixed
+Orientation Locked on Landscape
+PlayGame UI Progress Update
+
+July 5:
+[BAGARES] (Fixed some lost code during repo in AvatarSceneChange)
+-Reestablished the button for changing scene between PlayGame And AvatarMenu
+-Readded the Random Name Gen, but optimized it more in a different script. (WILL COMMENT ON IT LATER)
+
+July 8:
+[BAGARES] Added the nameHandling Script associated with a game object for changing name UI (INPUT FIELD)
+-[currently] fixing some issue regarding showing and hiding the UI menu.
+
+July 10:
+[Pandan] Added the functionalities for the AdminMenu
+- Need more changes in the future but the Quiz Cheat Sheet needs to be done for complete coding vicinity.
+- Still buggy and will fix one or more of them in the future but not all since it will take a lot of time.
+I will do it at the final phase of this project.
+- UI still needs to be updated and needs to be done by the designer.
+
+July 13: 
+[BAGARES] Added functionalities for the Ui_Input Name in Avatar Change Scene
+-Opening of the scene has been established
+
+July 13:
+[Pandan] Multiplayer Update is still INCOMPLETE and not in beta yet but you will get gist of what I am doing 
+for other teams to cope up for my re-adjustments in the UI also.
+- The only functional feature there yet is server and client relationships in this game yet
+
+<<<<<<< HEAD
+July 15:
+-Halted Avatar Scene Progress to work on to the Game scene
+-Added Game Scene (Solo), still barebones...
+-Added pause functionality, 80% done.
+-Added the Category Menu Thingie, (Currently working on that sort of thing)
+-Added the assets/sprites from gdrive.
+-Added the new util script for external purpose.
+
+=======
+July 14:
+[Pandan] Multiplayer Update is now in BETA but there is no way to get back on the PlayMenu yet. I can now permit people 
+to fix the UI since I ruined most of them when coding. 
+- Host and Client can now see each other, "ready-unready" function now working.
+Please Note: Place all of the Actual Gameplay inside the "GamePlay" scene. 
+Test it on Android first since I just test the LAN multiplayer in PC because it is hard to test it in Android.
+
+July 15:
+[Pandan] AdminUtilities bug fixed
+- Can now edit, add, and delete questions properly
+- Add the questions ASAP
+
+July 16: 
+[BAGARES] 
+-added Game mode (ClasArt) (buttons and other question UI added)
+-Pause Menu (90% complete) (textures are needed)
+-Added The Game-Solo.scene into a prefab named NetworkGamePlayer.prefab
+
+July 17:
+[BAGARES] 
+-added Maze questions
+-established connection between classart csv and the Game solo scene
+-edited the Classart.csv files for testing
+-added scripts for the connection [still not totally complete]
+
+July 18:
+[Pandan]
+- modified QuizLoader to be universal for everyone
+- AdminUtilites added
+- Question category for every GameObjects
+- Established a Universal format for our CSV files
+
+[BAGARES] Some updates for GUI in GRABART 
+-added buttons and question ui
+SOME UPDATES FOR CLASSICART
+-ADDED SCRIPTS TO SHOW SOME QUESTION IN UI QUESTION OBJECT IN CODE (10% complete)
+
+- Quizloader is now completed 90% not incl. the question presets per category
+- AdminUtilities improvements
+
+
+July 19:
+[Pandan]
+- Quizloader is now loaded with 5 of 8 questionTypes in its script, 95% compatible within its LoadCSV()
+- AdminUtilities improvements
+- This was uploaded immaturely to avoid confusion in the future
+
+[Pandan]
+- Can add, edit, delete in AdminUtilities (only 2 out of 8 QuestionTypes yet)
+[Pandan]
+- Changed the CSV delimiter from "," to "|"
+
+[BAGARES] 
+-ADDED SOME SCCRIPTS SO THAT THE CHOICES CAN BE SEEN IN THE GAME SCENE (not fully working yet)
+-ADDED SOME CODES FOR THE PLAYER UI
+
+July 20
+[Pandan]
+- Admin Utilities - 90% Complete
+- Added a default logo icon for our game
+
+[Pandan]
+- Admin Utilites - 95% Complete
+- Admin is still buggy
+- 7 out 8 questions supported
+
+July 21:
+[Pandan] 
+- Network Manager Update
+- Optimizations for Host and Client connections
+- More features including setting the number of players connecting in the game
+
+July 22:
+[Pandan]
+- Admin Utilites, QuizLoader Optimizations
+- Added a try... catch clause on LoadCSV() in case if the txt_file didn't found anything.
+
+[Pandan]
+- Play Game Optimizations
+- Can now toggle the button of players including their colors
+- Note me what could be the exception for Entering a lobby full of players.
+
+[Pandan]
+- Avatar Menu available inside Play Game
+- Game server connection will be available soon.
+
+Julu 23
+[Pandan] NetworkGamePlayer and NetworkPlayerLobby are now connected.
+
+July 24-27
+[BAGARES] Added a lot of features for the game scene
+- Added Functionality for Buttons. It can take player input. (in Classicart, Grabart, Switchart, Matchart)
+- Added indication of player input (Red button when the player selects something in a choices.)
+-Added lock feature when the player inputs a choice (locks a button when the player selects their answer)
+- Added timer function (when timer reach to zero, it transitions to a different set of question)
+- Added game over scene.
+- Currently doesn't have a function for checking the answer if player answer is correct or not.

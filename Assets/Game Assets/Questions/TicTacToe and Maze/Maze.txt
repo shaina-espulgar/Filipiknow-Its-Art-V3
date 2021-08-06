@@ -1,0 +1,30 @@
+1. Edwardo Mutuc was born in Apalit Pampanga
+x true
+v false
+2. GAMABA can be awarded to anyone
+x true
+v false
+3. GAMABA is mandated by the law, specifically, RA 7356
+x true
+v false
+4. Ginaw Bilog is a mangyan artist
+v true
+x false
+5. To be one of the GAMABA awardee, you should possess a mastery of art in any form
+v true
+x false
+6. GAMABA stands for Gawad sa Manlilikhang Basbas
+x true
+v false
+7. Ginaw Bilog is one of the GAMABA artis that possess an artistry towards writing poetry
+v true
+x false
+8. NCCA stands for NAtional Commission for Cultural Arts
+x true
+v false
+9. School of Living Tradition is conceptualized around 1995
+x true
+v false
+10. NCCA was established because of UNESCO
+x true
+v false

@@ -1,0 +1,55 @@
+1. These are the National Artist of the Philippines in a field of architecture:
+	V Pablo S. Antonio
+	V Leandro V. Locsin
+	V Juan F. Nakpil
+	V Ildefonso P. Santos
+	V Jose Maria V. Zaragoza
+	x Lino Bracka
+	x Lamberto V. Avellana
+	x Ishmael Bernal
+	x Valentin Na am Howran
+	x Canalita Ryan
+2. These are the National Artist of the Philippines in a field of cinema
+	V Lamberto V. Avellana
+	V Lino Brocka
+	V Gerardo de Leon
+	V Eddie S. Romero
+	V Kidlat Tahimik
+	x Fernando Poe Jr.
+	x Buenvenido Brosas
+	x Zaragoza Uson
+	x Mikael Nagpa
+	x Wendy Reyes
+3. These are the National Artist in the field of visual arts
+	V Vicente Manansala
+	V Arturo Luz
+	V Bienvenido Lumbrera
+	V Ang Kiukok
+	V Napoleon V. Abueva
+	x Virginio S. Almario
+	x Joaquin Bordado
+	x Kristine Nopera
+	x Juan Luna
+	x Khirigis Romale
+4. These are the National Artist in the field of literature
+	V Bienvenido Lumbrera
+	V N.V.M. Gonzalez
+	V Levi Celerio
+	V Carols P. Romulo
+	V Lazaro Francisco
+	x Ramon Santos
+	x Francisco Felicitas
+	x Wilfredo De Felipe
+	x Lino Andong
+	x Ryan Cruz
+5. These are the National artist in the field of music
+	V Ryan Cayabyab
+	V Levi Celerio
+	V Antonio J. Molina
+	V Lucio San Pedro
+	V Antonino Buenaventura
+	x Rama Sulaiman
+	x Ginaw Bilog
+	x Carlos Quirino
+	x Alice reyes
+	x Ramon Busan

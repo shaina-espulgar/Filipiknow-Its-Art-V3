@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 90d9ece714593b74baba70435c3a550b
+  - enabled: 1
+    path: Assets/Scenes/PlayGame.unity
+    guid: ff75cb856da796446b7a43bd203bdef5
+  - enabled: 1
+    path: Assets/Scenes/AdminMenu.unity
+    guid: 3e726c47ec371e3439539642cba3e259
+  - enabled: 1
+    path: Assets/Scenes/SettingsMenu.unity
+    guid: fe31a43ff832b6349bfcff64ff7ed164
+  - enabled: 1
+    path: Assets/Scenes/AvatarMenu.unity
+    guid: 3310c0df9fad38748a9f0ed3c6a35e95
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: fdc495f8665fc0a41944241988f0be59
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: e055d2636980f7e459e67ef8f08ba880
+  - enabled: 1
+    path: Assets/Scenes/AdminUtilities.unity
+    guid: 7584eb58fa471904da5bb717110652fb
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: a2495d4468ac11944b4fabb79f57b652
+  - enabled: 1
+    path: Assets/Scenes/ScoreMenu.unity
+    guid: 7220afbe18e8aed46af7f6159d8b8fc6
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoards.unity
+    guid: 1366d4adca6857142aa6058167f19cc5
+  m_configObjects: {}
