@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{86BC03A4-7CB3-5265-7810-0428FA2CEE22}</ProjectGuid>
+    <ProjectGuid>{54134749-CF72-6030-8F22-C24AC579E299}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PlayFabEditorExtensions</AssemblyName>

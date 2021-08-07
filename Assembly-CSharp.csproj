@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>7.3</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AD7F87A0-0506-5BBF-6FD0-B2DF16F8C510}</ProjectGuid>
+    <ProjectGuid>{A17B017E-D157-E301-92FF-150E0DF51C50}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,6 +64,7 @@
     <Compile Include="Assets\Game Functions\ABOUT US\AboutUs.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\Game Functions\GAME\Solo\main.cs" />
+    <Compile Include="Assets\Testing.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Game Functions\GAME\Solo\UI_Matchart_QuestionTable.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
@@ -87,6 +88,7 @@
     <Compile Include="Assets\UtilScript\Utils\World_Sprite.cs" />
     <Compile Include="Assets\UtilScript\Utils\World_Bar.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\Exit.cs" />
     <Compile Include="Assets\UtilScript\Utils\UtilsClass.cs" />
     <Compile Include="Assets\Game Functions\GAME\Solo\UI_PauseMenu.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
@@ -140,6 +142,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\UtilScript\MonoBehaviours\ComponentActions.cs" />
+    <Compile Include="Assets\AudioManager.cs" />
     <Compile Include="Assets\UniScripts\DebugMessage.cs" />
     <Compile Include="Assets\UtilScript\Utils\UI_Sprite.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
@@ -163,6 +166,7 @@
     <Compile Include="Assets\UniScripts\Testing Code.cs" />
     <Compile Include="Assets\Game Functions\HELP\Help.cs" />
     <Compile Include="Assets\UniScripts\DontDestroyAudio.cs" />
+    <Compile Include="Assets\AudioSetting.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Game Functions\AVATAR\AvatarMenu.cs" />
@@ -170,10 +174,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\UtilScript\Utils\FunctionPeriodic.cs" />
     <Compile Include="Assets\Game Functions\ADMIN LOGIN\AdminUtilities\Class_Matchart.cs" />
-    <Compile Include="Assets\AudioManager.cs" />
-    <Compile Include="Assets\AudioSetting.cs" />
-    <Compile Include="Assets\Exit.cs" />
-    <Compile Include="Assets\Testing.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
@@ -919,23 +919,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PlayFabSDKEditor.csproj">
-      <Project>{77D78110-2836-165F-7230-55B0800D892F}</Project>
+      <Project>{8713185E-9FE3-423F-B3AA-328B0A08981F}</Project>
       <Name>PlayFabSDKEditor</Name>
     </ProjectReference>
     <ProjectReference Include="PlayFabEditorExtensions.csproj">
-      <Project>{86BC03A4-7CB3-5265-7810-0428FA2CEE22}</Project>
+      <Project>{54134749-CF72-6030-8F22-C24AC579E299}</Project>
       <Name>PlayFabEditorExtensions</Name>
     </ProjectReference>
     <ProjectReference Include="NativeShare.Runtime.csproj">
-      <Project>{23316F97-3B36-4DFD-B59A-881B487FF044}</Project>
+      <Project>{67DDDA3E-CD83-692B-3911-6C97FF83D7BD}</Project>
       <Name>NativeShare.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="PlayFab.csproj">
-      <Project>{2C923674-5DD0-1E56-FBCE-EB8D1CB4ADF7}</Project>
+      <Project>{72CF8FDF-9A23-F372-2B9D-9F5550D120C8}</Project>
       <Name>PlayFab</Name>
     </ProjectReference>
     <ProjectReference Include="NativeShare.Editor.csproj">
-      <Project>{46C11335-109F-4922-EC93-AD2394ED39F6}</Project>
+      <Project>{723B4303-5EAA-0F2A-2D50-5946E21A6518}</Project>
       <Name>NativeShare.Editor</Name>
     </ProjectReference>
   </ItemGroup>
